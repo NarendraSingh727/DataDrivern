@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Market Place Tests]">
+  <listeners>
+    <listener class-name="com.canopy.framework.datadriven.CustomListener"/>
+  </listeners>
+  <test name="Login Test(failed)" preserve-order="false">
+    <classes>
+      <class name="com.canopy.framework.datadriven.MarketPlaceSuite.Test2">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class>
+      <class name="com.canopy.framework.datadriven.MarketPlaceSuite.LoginTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+          <include name="loginTest" invocation-numbers="1 2"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+  <test name="Test 2(failed)" preserve-order="false">
+    <classes>
+      <class name="com.canopy.framework.datadriven.MarketPlaceSuite.Test2">
+        <methods>
+          <include name="close"/>
+          <include name="test2" invocation-numbers="1"/>
+          <include name="initLogs"/>
+        </methods>
+      </class>
+      <class name="com.canopy.framework.datadriven.MarketPlaceSuite.LoginTest">
+        <methods>
+          <include name="close"/>
+          <include name="initLogs"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

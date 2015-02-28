@@ -1,0 +1,22 @@
+xlsFileLocation=E:\\Canopy_MarketPlace_Data\\webdriver_canopy_marketplace\\
+testSiteURL=https://canopy-marketplace-ui.test.cep.canopy-cloud.com/
+chromedriverexe=E:\\Canopy_MarketPlace_Data\\ChromeDriver\\chromedriver.exe
+defaultUsername=admin.cep@yopmail.com
+defaultPassword=Canopy1!
+
+
+#Titles
+loginPage=Canopy Enterprise Store - Account
+
+#All Links
+certificate_xpath=//*[@id='expertContent']/xhtml:button
+
+#All Buttons
+addException_xpath=//*[@id='exceptionDialogButton']
+login_xpath=//*[@id='header']/div[2]/div/div/a[2]
+loginButton_xpath=//*[@id='login_form_submit']
+logoutButton_xpath=//*[@id='header']/div[2]/div/div/a[2]
+
+#All Text Fields
+loginUsername_xpath=//*[@id='username']
+loginPassword_xpath=//*[@id='password']

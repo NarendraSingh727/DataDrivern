@@ -1,0 +1,11 @@
+<suite name="Canopy Enterprise Platform Functional Test Result" parallel="tests">
+<listeners>
+    <listener class-name="com.canopy.framework.datadriven.CustomListener" />
+</listeners>
+  <suite-files>
+   <suite-file path="./MarketPlace.xml" />
+   <suite-file path="./Suite_B.xml" />
+   <!-- suite-file path="./Suite_C.xml" / -->
+   
+  </suite-files>
+</suite>

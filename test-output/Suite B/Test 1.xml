@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Dell-PC" name="com.canopy.framework.datadriven.suiteB.Test1" tests="3" failures="0" timestamp="28 Feb 2015 05:05:07 GMT" time="1.58" errors="0">
+  <testcase name="test1" time="0.45" classname="com.canopy.framework.datadriven.suiteB.Test1">
+    <skipped/>
+  </testcase>
+  <testcase name="test1" time="0.415" classname="com.canopy.framework.datadriven.suiteB.Test1">
+    <skipped/>
+  </testcase>
+  <testcase name="test1" time="0.456" classname="com.canopy.framework.datadriven.suiteB.Test1">
+    <skipped/>
+  </testcase>
+</testsuite>

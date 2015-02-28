@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Dell-PC" name="com.canopy.framework.datadriven.MarketPlaceSuite.LoginTest" tests="3" failures="0" timestamp="28 Feb 2015 05:03:19 GMT" time="105.184" errors="0">
+  <testcase name="loginTest" time="100.796" classname="com.canopy.framework.datadriven.MarketPlaceSuite.LoginTest"/>
+  <testcase name="loginTest" time="0.641" classname="com.canopy.framework.datadriven.MarketPlaceSuite.LoginTest">
+    <skipped/>
+  </testcase>
+  <testcase name="loginTest" time="0.492" classname="com.canopy.framework.datadriven.MarketPlaceSuite.LoginTest">
+    <skipped/>
+  </testcase>
+</testsuite>

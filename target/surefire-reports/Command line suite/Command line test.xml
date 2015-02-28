@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Dell-PC" name="com.canopy.framework.datadriven.MarketPlaceSuite.LoginTest" tests="13" failures="0" timestamp="28 Feb 2015 05:50:42 GMT" time="322.993" errors="0">
+  <testcase name="loginTest" time="229.712" classname="com.canopy.framework.datadriven.MarketPlaceSuite.LoginTest"/>
+  <testcase name="loginTest" time="0.75" classname="com.canopy.framework.datadriven.MarketPlaceSuite.LoginTest">
+    <skipped/>
+  </testcase>
+  <testcase name="loginTest" time="0.55" classname="com.canopy.framework.datadriven.MarketPlaceSuite.LoginTest">
+    <skipped/>
+  </testcase>
+  <testcase name="test2" time="80.292" classname="com.canopy.framework.datadriven.MarketPlaceSuite.Test2"/>
+  <testcase name="test2" time="0.485" classname="com.canopy.framework.datadriven.MarketPlaceSuite.Test2">
+    <skipped/>
+  </testcase>
+  <testcase name="test3" time="0.0" classname="com.canopy.framework.datadriven.MarketPlaceSuite.Test3"/>
+  <testcase name="test4" time="0.0" classname="com.canopy.framework.datadriven.MarketPlaceSuite.Test4"/>
+  <testcase name="test5" time="0.0" classname="com.canopy.framework.datadriven.MarketPlaceSuite.Test5"/>
+  <testcase name="test1" time="0.386" classname="com.canopy.framework.datadriven.suiteB.Test1">
+    <skipped/>
+  </testcase>
+  <testcase name="test1" time="0.463" classname="com.canopy.framework.datadriven.suiteB.Test1">
+    <skipped/>
+  </testcase>
+  <testcase name="test1" time="0.479" classname="com.canopy.framework.datadriven.suiteB.Test1">
+    <skipped/>
+  </testcase>
+  <testcase name="test2" time="0.451" classname="com.canopy.framework.datadriven.suiteB.Test2">
+    <skipped/>
+  </testcase>
+  <testcase name="test2" time="0.749" classname="com.canopy.framework.datadriven.suiteB.Test2">
+    <skipped/>
+  </testcase>
+</testsuite>

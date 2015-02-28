@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Dell-PC" name="com.canopy.framework.datadriven.MarketPlaceSuite.Test2" tests="2" failures="0" timestamp="28 Feb 2015 05:04:59 GMT" time="99.931" errors="0">
+  <testcase name="test2" time="97.673" classname="com.canopy.framework.datadriven.MarketPlaceSuite.Test2"/>
+  <testcase name="test2" time="0.521" classname="com.canopy.framework.datadriven.MarketPlaceSuite.Test2">
+    <skipped/>
+  </testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+2015-02-28 10:14:54,053 DEBUG [LoginTest] Executing Test Case Test1
+2015-02-28 10:14:54,053 DEBUG [LoginTest] Validating runmode of test case loginTest in suite MarketPlaceSuite
+2015-02-28 10:15:53,046 DEBUG [LoginTest] Login into CEP Application
+2015-02-28 10:16:10,120 DEBUG [LoginTest] Executing Test Case Test1
+2015-02-28 10:16:10,120 DEBUG [LoginTest] Validating runmode of test case loginTest in suite MarketPlaceSuite
+2015-02-28 10:16:10,576 DEBUG [LoginTest] Skipping the test loginTest inside the suite MarketPlaceSuite
+2015-02-28 10:16:10,576 DEBUG [LoginTest] Executing Test Case Test1
+2015-02-28 10:16:10,576 DEBUG [LoginTest] Validating runmode of test case loginTest in suite MarketPlaceSuite
+2015-02-28 10:16:10,996 DEBUG [LoginTest] Skipping the test loginTest inside the suite MarketPlaceSuite

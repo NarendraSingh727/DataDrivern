@@ -1,0 +1,16 @@
+2015-02-28 10:16:11,368 DEBUG [Test2] Executing Test Case Test2
+2015-02-28 10:16:11,368 DEBUG [Test2] Validating runmode of test case Test2 in suite MarketPlaceSuite
+2015-02-28 10:17:03,698 DEBUG [Test2] Login into CEP Application
+2015-02-28 10:17:15,029 DEBUG [Test2] Executing Test Case Test2
+2015-02-28 10:17:15,029 DEBUG [Test2] Validating runmode of test case Test2 in suite MarketPlaceSuite
+2015-02-28 10:17:15,435 DEBUG [Test2] Skipping the test Test2 inside the suite MarketPlaceSuite
+2015-02-28 10:17:21,786 DEBUG [Test2] Validating runmode of test case Test1 in suite SuiteB
+2015-02-28 10:17:22,238 DEBUG [Test2] Skipping the test Test1 inside the suite SuiteB
+2015-02-28 10:17:22,240 DEBUG [Test2] Validating runmode of test case Test1 in suite SuiteB
+2015-02-28 10:17:22,685 DEBUG [Test2] Skipping the test Test1 inside the suite SuiteB
+2015-02-28 10:17:22,690 DEBUG [Test2] Validating runmode of test case Test1 in suite SuiteB
+2015-02-28 10:17:23,101 DEBUG [Test2] Skipping the test Test1 inside the suite SuiteB
+2015-02-28 10:17:23,456 DEBUG [Test2] Validating runmode of test case Test2 in suite SuiteB
+2015-02-28 10:17:23,863 DEBUG [Test2] Skipping the test Test2 inside the suite SuiteB
+2015-02-28 10:17:23,863 DEBUG [Test2] Validating runmode of test case Test2 in suite SuiteB
+2015-02-28 10:17:24,239 DEBUG [Test2] Skipping the test Test2 inside the suite SuiteB

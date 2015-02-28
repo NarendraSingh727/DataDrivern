@@ -1,0 +1,25 @@
+2015-02-28 11:15:23,366 DEBUG [Test2] Executing Test Case Test1
+2015-02-28 11:15:23,366 DEBUG [Test2] Validating runmode of test case loginTest in suite MarketPlaceSuite
+2015-02-28 11:18:49,621 DEBUG [Test2] Login into CEP Application
+2015-02-28 11:19:14,645 DEBUG [Test2] Executing Test Case Test1
+2015-02-28 11:19:14,646 DEBUG [Test2] Validating runmode of test case loginTest in suite MarketPlaceSuite
+2015-02-28 11:19:15,395 DEBUG [Test2] Skipping the test loginTest inside the suite MarketPlaceSuite
+2015-02-28 11:19:15,396 DEBUG [Test2] Executing Test Case Test1
+2015-02-28 11:19:15,396 DEBUG [Test2] Validating runmode of test case loginTest in suite MarketPlaceSuite
+2015-02-28 11:19:15,946 DEBUG [Test2] Skipping the test loginTest inside the suite MarketPlaceSuite
+2015-02-28 11:19:16,235 DEBUG [Test2] Executing Test Case Test2
+2015-02-28 11:19:16,235 DEBUG [Test2] Validating runmode of test case Test2 in suite MarketPlaceSuite
+2015-02-28 11:20:22,405 DEBUG [Test2] Login into CEP Application
+2015-02-28 11:20:38,051 DEBUG [Test2] Executing Test Case Test2
+2015-02-28 11:20:38,051 DEBUG [Test2] Validating runmode of test case Test2 in suite MarketPlaceSuite
+2015-02-28 11:20:38,535 DEBUG [Test2] Skipping the test Test2 inside the suite MarketPlaceSuite
+2015-02-28 11:20:38,802 DEBUG [Test2] Validating runmode of test case Test1 in suite SuiteB
+2015-02-28 11:20:39,187 DEBUG [Test2] Skipping the test Test1 inside the suite SuiteB
+2015-02-28 11:20:39,188 DEBUG [Test2] Validating runmode of test case Test1 in suite SuiteB
+2015-02-28 11:20:39,650 DEBUG [Test2] Skipping the test Test1 inside the suite SuiteB
+2015-02-28 11:20:39,651 DEBUG [Test2] Validating runmode of test case Test1 in suite SuiteB
+2015-02-28 11:20:40,130 DEBUG [Test2] Skipping the test Test1 inside the suite SuiteB
+2015-02-28 11:20:40,401 DEBUG [Test2] Validating runmode of test case Test2 in suite SuiteB
+2015-02-28 11:20:40,852 DEBUG [Test2] Skipping the test Test2 inside the suite SuiteB
+2015-02-28 11:20:40,852 DEBUG [Test2] Validating runmode of test case Test2 in suite SuiteB
+2015-02-28 11:20:41,601 DEBUG [Test2] Skipping the test Test2 inside the suite SuiteB
